@@ -15,8 +15,8 @@ weights/
 Original-indian_cultural/
 
 # Ignore all subfolders inside upscaled-indian_cultural
-upscaled-indian_cultural/*
+upcaled-indian_cultural/*
 
 # But keep these specific ones
-!upscaled-indian_cultural/quality_report/
-!upscaled-indian_cultural/upscaling_notes.md
+!upcaled-indian_cultural/quality_report/
+!upcaled-indian_cultural/upscaling_notes.md
