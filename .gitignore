@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+gfpgan/
+weights/
+
+Original-indian_cultural/
+
+# Ignore all subfolders inside upscaled-indian_cultural
+upscaled-indian_cultural/*
+
+# But keep these specific ones
+!upscaled-indian_cultural/quality_report/
+!upscaled-indian_cultural/upscaling_notes.md

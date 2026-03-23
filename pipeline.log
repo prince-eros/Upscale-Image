@@ -1,0 +1,33 @@
+2026-03-23 12:10:21,214 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), fp32=False, tile=0, tile_pad=10, seed=42, test_limit=10, full_run=False, qa_sample_size=25)
+2026-03-23 12:10:21,214 [INFO] Test mode enabled with limit=10 images.
+2026-03-23 12:10:21,214 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 12:24:00,603 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 12:24:00,603 [INFO] Full run mode enabled.
+2026-03-23 12:24:00,603 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 12:29:52,914 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 12:29:52,914 [INFO] Full run mode enabled.
+2026-03-23 12:29:52,914 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 12:49:35,920 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), bucket='01_people_portraits', reset_output=False, fp32=False, tile=256, tile_pad=10, seed=42, test_limit=3, full_run=False, qa_sample_size=25)
+2026-03-23 12:49:35,921 [INFO] Test mode enabled with limit=3 images.
+2026-03-23 12:49:35,921 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 12:49:35,921 [INFO] Single-bucket mode enabled: 01_people_portraits
+2026-03-23 12:49:36,395 [INFO] Pipeline completed. Summary written to upcaled-indian_cultural\quality_report\summary.csv
+2026-03-23 13:05:16,152 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), bucket='01_people_portraits', reset_output=True, fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 13:05:16,152 [INFO] Full run mode enabled.
+2026-03-23 13:05:16,152 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 13:05:16,152 [INFO] Single-bucket mode enabled: 01_people_portraits
+2026-03-23 13:41:08,436 [INFO] Pipeline completed. Summary written to upcaled-indian_cultural\quality_report\summary.csv
+2026-03-23 14:29:54,849 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), bucket='02_clothing_textiles', reset_output=False, fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 14:29:54,849 [INFO] Full run mode enabled.
+2026-03-23 14:29:54,849 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 14:29:54,849 [INFO] Single-bucket mode enabled: 02_clothing_textiles
+2026-03-23 14:52:40,983 [INFO] Pipeline completed. Summary written to upcaled-indian_cultural\quality_report\summary.csv
+2026-03-23 15:04:32,358 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), bucket='03_architecture', reset_output=False, fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 15:04:32,358 [INFO] Full run mode enabled.
+2026-03-23 15:04:32,358 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 15:04:32,358 [INFO] Single-bucket mode enabled: 03_architecture
+2026-03-23 15:24:44,942 [INFO] Pipeline completed. Summary written to upcaled-indian_cultural\quality_report\summary.csv
+2026-03-23 15:34:31,049 [INFO] Running pipeline with config: PipelineConfig(input_root=WindowsPath('Original-indian_cultural'), output_root=WindowsPath('upcaled-indian_cultural'), weights_dir=WindowsPath('weights'), bucket='04_landscape_nature', reset_output=False, fp32=False, tile=0, tile_pad=10, seed=42, test_limit=None, full_run=True, qa_sample_size=25)
+2026-03-23 15:34:31,049 [INFO] Full run mode enabled.
+2026-03-23 15:34:31,049 [INFO] CUDA not available; running on CPU (slower).
+2026-03-23 15:34:31,049 [INFO] Single-bucket mode enabled: 04_landscape_nature
